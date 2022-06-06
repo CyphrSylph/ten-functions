@@ -20,3 +20,20 @@
  * and
  * concat
  */
+
+//1. isTrue
+//Define a function named `isTrue` that takes in any input and returns true if
+//the input provided is exactly equal to `true` in value and data type.
+
+function isTrue(x) {
+    return x === true;
+}
+
+//2. isFalse
+//Define a function named `isFalse` that takes in a value and returns a true if
+//and only if the provided input is equal to false in both type and value.
+
+function isFalse(x) {
+    return x === false;
+}
+
