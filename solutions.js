@@ -29,6 +29,7 @@ function isTrue(x) {
     return x === true;
 }
 
+
 //2. isFalse
 //Define a function named `isFalse` that takes in a value and returns a true if
 //and only if the provided input is equal to false in both type and value.
@@ -37,3 +38,10 @@ function isFalse(x) {
     return x === false;
 }
 
+
+//3. not
+//Define a function named `not` that takes in any input and returns the boolean opposite of the provided input.
+
+function not(x) {
+    return x ===
+}
