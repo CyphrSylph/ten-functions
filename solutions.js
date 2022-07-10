@@ -62,7 +62,7 @@ function addOne(x) {
 // Any other input should return false for the output.
 
 function isEven(x) {
-    return (parseFloat(x) % 2 == 0)
+    return (parseFloat(x) % 2 == 0) // parsFloat passes a string
 }
 
 
